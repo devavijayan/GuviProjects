@@ -1,0 +1,367 @@
+{
+    "basics": {
+        "name": "Deva V",
+        "email": "devavijayan47@gmail.com",
+        "phone": "7892491567",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "Seeking a challenging role that allows me to leverage my expertise in front-end and back-end technologies to design, develop an implement high-quality software solutions that meet business needs and exceed user expectations.",
+        "website": "",
+        "headline": "",
+        "location": {
+            "city": "Tiruvannamalai",
+            "region": "",
+            "address": "No.2/123, Mariyamman Kovil St, Ayyampalayam",
+            "country": "India",
+            "postalCode": "606603"
+        },
+        "profiles": [
+            {
+                "id": "077735a9-31ec-489f-9a4e-5cc2d7c5f59b",
+                "url": "",
+                "network": "linkedin",
+                "username": "Deva Vijayan"
+            },
+            {
+                "id": "4f0b1c0a-f963-4843-8bc6-de8e28081774",
+                "url": "",
+                "network": "Github",
+                "username": "devavijayan"
+            }
+        ],
+        "birthdate": "1998-03-01"
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "work",
+            "items": [
+                {
+                    "id": "accb4200-747f-41fc-90e3-d5145547a969",
+                    "url": "",
+                    "date": {
+                        "end": "2023-01-16",
+                        "start": "2022-01-17"
+                    },
+                    "name": "Unit Of Armoured Vehicles Nigam Ltd",
+                    "summary": "1. Preparation of Quality assurance plan for Raw material, forging, casting, components, sub-assemblies of input material.\n2. Learned about assemblies like Hull, Turret, torsion bar, hydraulic shock absorber, supporting rollers.\n3. Trained on overall functionality of battle tanks T-72 & its variants and T-90 & its variants.",
+                    "position": "Graduate Apprentice Trainee"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 1,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "3bf1e49f-d27f-4655-a560-6ddb72d8d883",
+                    "name": "HTML ",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "23cb89ae-46b6-45a7-ae1c-eee3d068a6e2",
+                    "name": "CSS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "a92e1cf7-763d-4fcd-85ba-8ac9d880750a",
+                    "name": "JavaScript",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "2d01fa78-5d5d-40b9-b92e-708c6c6ae1b5",
+                    "name": "React.Js",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "4ddf1b89-eb51-4dac-95b4-4d5c62a5384e",
+                    "name": "Bootstrap ",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "1ba15d7d-9f0a-40b0-b7c9-7c563ff5fa26",
+                    "name": "AutoCad 2D",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "a4f5c974-a5fd-4f24-a933-dafde8c318b8",
+                    "name": "Catia",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "ab1a0a75-cd0b-48d9-91b4-3ef28bb23010",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "Pneumatic Three Direction Modern Trailer",
+                    "summary": "",
+                    "keywords": [],
+                    "description": "The normal trucks are lifting the trailer in one axis direction, but this modern trailer can lift in three axis direction."
+                },
+                {
+                    "id": "6777e26d-36f0-4c7f-9813-8df979b90e2d",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "Single Minute Exchange Die ",
+                    "summary": "",
+                    "keywords": [],
+                    "description": "The implementation of SMED in pressing machine is to reduce the tool loading setup and increasing the production."
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "e290820d-eff2-4ab2-9a2f-0c12b3aac4c9",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2020-08-28",
+                        "start": "2017-06-07"
+                    },
+                    "score": "7.9 cgpa",
+                    "degree": "Bachelor in Mechanical Engineering",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "Adhiyamaan College Of Engineering, Hosur"
+                },
+                {
+                    "id": "78915519-baca-4602-a2e8-e517e951e918",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2016-04-22",
+                        "start": "2013-06-10"
+                    },
+                    "score": "75%",
+                    "degree": "Diploma in Mechanical Engineering",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "Tirumala Polytechnic College, Tiruvannamalai."
+                },
+                {
+                    "id": "559c7c36-c4ed-41a7-92ec-4c61eabc3e07",
+                    "url": "",
+                    "area": "",
+                    "date": {
+                        "end": "2013-05-31",
+                        "start": "2012-06-11"
+                    },
+                    "score": "66%",
+                    "degree": "SSLC",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "Danish  Mission Higher Secondary School, Tiruvannamalai."
+                }
+            ],
+            "columns": null,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "21d2188f-8cd9-47d0-86ec-f2f31ef6ce71",
+                    "name": "Tamil",
+                    "level": "Native",
+                    "levelNum": 10
+                },
+                {
+                    "id": "8691da26-90ae-4da4-b38a-4069244b0947",
+                    "name": "English",
+                    "level": "Intermediate",
+                    "levelNum": 6
+                },
+                {
+                    "id": "05faee7f-cb5d-466f-9b50-a3dd432064fd",
+                    "name": "Kannada",
+                    "level": "Intermediate",
+                    "levelNum": 5
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "fcab8441-ea6c-4000-8166-32d9ff80f55a",
+                    "url": "",
+                    "date": {
+                        "end": "2020-01-31",
+                        "start": "2020-01-02"
+                    },
+                    "summary": "To Learn about pressing machine and tool loading setup.",
+                    "position": "Internship",
+                    "organization": "Qualitech Industries"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+       
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "4f57103c-6034-4dc0-84a8-460e36160b99",
+                    "url": "",
+                    "date": "2015-08-24",
+                    "name": "AutoCAD 2D",
+                    "issuer": "CADD Centre Training services, Tiruvannamalai.",
+                    "summary": ""
+                },
+                {
+                    "id": "abc44375-7a46-40fe-9326-4782cf333810",
+                    "url": "",
+                    "date": "",
+                    "name": "National level technical symposium",
+                    "issuer": "Karpagam Academy |Of Higher Education, Coimbatore",
+                    "summary": "Participated in Project Expo Tronix-2020"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "f29b11f1-d4b4-4fe9-b1b5-872b79dce70e": {
+            "name": "Declaration",
+            "type": "custom",
+            "items": [
+                {
+                    "id": "c190ca60-16d6-48ae-aea7-40df46b940fd",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": "I hereby declare that all the information and facts provided above is true to the best my knowledge and belief.",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "DD/MM/YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#040505",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references",
+                    "f29b11f1-d4b4-4fe9-b1b5-872b79dce70e"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "glalie",
+        "typography": {
+            "size": {
+                "body": 12,
+                "heading": 26
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
